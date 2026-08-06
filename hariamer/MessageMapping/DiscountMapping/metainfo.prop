@@ -1,3 +1,4 @@
 #Store metainfo properties
 #Thu Aug 06 12:38:45 UTC 2026
 description=
+#"Unsynced git-side change" = someone edited the artifact in git and that edit was never pulled into the environment. Since the environment also changed it, ReleaseOwl must merge both versions instead of overwriting — otherwise the git-side edit would be lost.
