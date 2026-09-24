@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: GetDiscountDetails
 Bundle-SymbolicName: GetDiscountDetails; singleton:=true
-Bundle-Version: 1.0.37
+Bundle-Version: 1.0.7
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
@@ -36,6 +36,6 @@ Origin-Bundle-Name: GetDiscountDetails
 Origin-Bundle-SymbolicName: GetDiscountDetails
 Require-Capability: messagemapping.DiscountMapping;resolution:=optional;
  bundleType:String="MessageMapping";source:String="reference"
-Origin-Bundle-Version: 1.0.34
-Origin-ModifiedDate: 1747656888850
+Origin-Bundle-Version: 1.0.3
+Origin-ModifiedDate: 1734000080212
 
