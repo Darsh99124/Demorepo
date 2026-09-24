@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Thu Sep 24 10:16:43 UTC 2026
+description=Transform the outbound (MM-based) ERP-initiated invoice document from SOAP format to cXML format.

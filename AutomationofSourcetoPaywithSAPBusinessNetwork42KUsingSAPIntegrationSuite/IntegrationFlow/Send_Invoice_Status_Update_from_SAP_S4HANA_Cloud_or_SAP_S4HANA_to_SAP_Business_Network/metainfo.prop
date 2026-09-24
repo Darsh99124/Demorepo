@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Thu Sep 24 10:16:40 UTC 2026
+description=Transform the outbound invoice status update document from SOAP format to cXML format.

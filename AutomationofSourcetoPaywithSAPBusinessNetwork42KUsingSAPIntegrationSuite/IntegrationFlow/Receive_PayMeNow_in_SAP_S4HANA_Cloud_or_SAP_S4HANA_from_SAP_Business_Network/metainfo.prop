@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Thu Sep 24 10:16:38 UTC 2026
+description=Transform the inbound PayMeNow document from cXML format to SOAP format.

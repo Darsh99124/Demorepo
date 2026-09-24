@@ -1,0 +1,10 @@
+#Thu Sep 24 10:16:42 UTC 2026
+Environment=
+Inbound\ HTTPS\ Endpoint=/sap/ariba/integration/42k_inbound/*
+JMS\ Queue\ Name\ for\ Message\ Decoupling=42K_Integration
+Outbound\ SOAP\ Endpoint=/sap/ariba/integration/42k_outbound
+S4\ System\ ID=
+SAP\ Business\ Network\ Credential=
+SAP\ Business\ Network\ EndPoint\ Name=
+SAP\ Business\ Network\ ID=
+System\ Timezone=

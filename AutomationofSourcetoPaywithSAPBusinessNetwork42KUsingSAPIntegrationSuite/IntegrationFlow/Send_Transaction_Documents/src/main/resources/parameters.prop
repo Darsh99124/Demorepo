@@ -1,0 +1,9 @@
+#Thu Sep 24 10:16:45 UTC 2026
+Deployment\ (cloud\ or\ onprem)=
+JMS\ Queue=
+JMS\ Queue\ Name\ for\ Message\ Decoupling=42K_Integration
+JMS\ Retries=5
+Location\ ID=
+S4\ Basic\ Authentication\ Credential=
+S4\ Host\ URL=
+SAP\ Business\ Network\ Service\ URL=
