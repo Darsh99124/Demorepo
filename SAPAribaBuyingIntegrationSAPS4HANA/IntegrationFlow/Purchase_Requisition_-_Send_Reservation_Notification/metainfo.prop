@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Thu Sep 24 10:17:33 UTC 2026
+description=Forwards a SOAP WebService call from SAP S/4HANA to SAP Ariba Buying with confirmations about a purchase requisition reservation.
+source=SAPS4HANACloud,SAPS4HANA
+target=SAPAribaBuying

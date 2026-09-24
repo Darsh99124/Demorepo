@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Thu Sep 24 10:17:32 UTC 2026
+description=Forwards a POST or DELETE call from SAP Ariba Buying to SAP S/4HANA for replication of pending attachments.
+source=SAPAribaBuying
+target=SAPS4HANA

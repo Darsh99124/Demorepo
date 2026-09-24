@@ -1,0 +1,37 @@
+#Thu Sep 24 10:17:30 UTC 2026
+DocumentType=NB
+Prefix01=NullPrefix
+Prefix02=NullPrefix
+Prefix03=NullPrefix
+Prefix04=NullPrefix
+Prefix05=NullPrefix
+Prefix06=NullPrefix
+Prefix07=NullPrefix
+Prefix08=NullPrefix
+Prefix09=NullPrefix
+Prefix10=NullPrefix
+Prefix11=NullPrefix
+Prefix12=NullPrefix
+Prefix13=NullPrefix
+Prefix14=NullPrefix
+Prefix15=NullPrefix
+Prefix16=NullPrefix
+Prefix17=NullPrefix
+Prefix18=NullPrefix
+Prefix19=NullPrefix
+Prefix20=NullPrefix
+ProcessDirect\ Endpoint\ for\ Customizing=
+Query=sap-client\={{S4Client}}
+S4\ Authentication=Basic
+S4\ Client\ Certificate\ Alias=
+S4\ Client\ Credential\ Name=cig-S4-Cloud-2NV
+S4\ ClouLocation\ ID=
+S4\ Host\ Deployment\ Type=default
+S4\ Host\ URL=https\://my304529-api.s4hana.ondemand.com
+S4\ Location\ ID=
+S4\ System\ ID=0LOJBAQ
+S4Client=
+Time\ \ Out=60000
+Time\ Out=60000
+Time\ out=60000
+Timeout=60000

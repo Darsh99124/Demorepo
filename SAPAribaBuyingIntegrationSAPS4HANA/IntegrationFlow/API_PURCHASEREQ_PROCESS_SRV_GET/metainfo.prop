@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Thu Sep 24 10:17:35 UTC 2026
+description=Forwards a GET call from SAP Ariba Buying to SAP S/4HANA for the retrieval of a CSRF token to be used for a subsequent POST call.
+source=SAPAribaBuying
+target=SAPS4HANA

@@ -1,0 +1,9 @@
+#Thu Sep 24 10:17:33 UTC 2026
+Ariba\ Buying\ Basic\ Authentication\ Credentials=GBCRED
+Ariba\ Buying\ Host\ and\ Port=s1-integration.ariba.com\:443
+Ariba\ Buying\ ID=ANID
+Ariba\ Buying\ Realm\ ID=CPI-Engineering-T
+MDOverlaps=N
+ProcessDirect\ Endpoint\ for\ Customizing=
+SubPath=v4/
+Timeout=60000

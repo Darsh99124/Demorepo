@@ -1,0 +1,4 @@
+#Store metainfo properties
+#Thu Sep 24 10:17:30 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Forwards HTTP requests from SAP Ariba Buying to SAP S/4HANA for Purchase Requisition, Attachments and Goods Receipt. Required for OData V4.

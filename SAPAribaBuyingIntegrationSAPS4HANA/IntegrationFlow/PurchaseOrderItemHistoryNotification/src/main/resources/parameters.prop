@@ -1,0 +1,7 @@
+#Thu Sep 24 10:17:30 UTC 2026
+AribaCredentials=AribaCredentials
+AribaServiceHostnameAndPort=s1-integration.ariba.com\:443
+MessageDelay=20000
+ProcessDirect\ Endpoint\ for\ Customizing=
+RealmID=RealmID
+Timeout=60000

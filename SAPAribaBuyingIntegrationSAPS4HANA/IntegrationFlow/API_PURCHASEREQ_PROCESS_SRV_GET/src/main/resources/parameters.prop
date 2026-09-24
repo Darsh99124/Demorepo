@@ -1,0 +1,11 @@
+#Thu Sep 24 10:17:35 UTC 2026
+LocationID=LOC
+S4BusinessSystemId=S4HCLNT100
+S4Client=100
+S4CredentialType=Basic
+S4Credentials=s4h
+S4HostNameAndPort=s4hostname\:443
+S4Protocol=http
+S4ProxyType=sapcc
+Timeout=60000
+iFlowFullUrl=https\://xXXXXXX-iflmap.hcisbt.eu1.hana.ondemand.com/http/KS4CLNT720

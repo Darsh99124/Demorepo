@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><parameters><parameter>
+    <key/>
+    <name>MDOverlaps</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>ProcessDirect Endpoint for Customizing</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>Ariba Buying Realm ID</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>Ariba Buying Host and Port</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>Ariba Buying Basic Authentication Credentials</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>Ariba Buying ID</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>SubPath</name>
+    <type>xsd:string</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><parameter>
+    <key/>
+    <name>Timeout</name>
+    <type>xsd:integer</type>
+    <isRequired>false</isRequired>
+    <constraint/>
+    <description/>
+    <additionalMetadata/>
+  </parameter><param_references><reference attribute_category="Ariba.Receiver.Auth" attribute_id="ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.15.0/attrId::credentialName" attribute_uilabel="Credential Name" param_key="Ariba Buying Basic Authentication Credentials"/><reference attribute_category="Ariba" attribute_id="ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.15.0/attrId::httpRequestTimeout" attribute_uilabel="Timeout (in ms)" param_key="Timeout"/><reference attribute_category="Ariba" attribute_id="ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.15.0/attrId::httpAddressWithoutQuery" attribute_uilabel="Ariba Buying Host and Port" param_key="Ariba Buying Host and Port"/><reference attribute_category="Ariba" attribute_id="ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.15.0/attrId::httpAddressWithoutQuery" attribute_uilabel="Ariba Buying Realm ID" param_key="Ariba Buying Realm ID"/><reference attribute_category="SAP" attribute_id="/attrId::urlPath" attribute_uilabel="SubPath" param_key="SubPath"/><reference attribute_category="SAP" attribute_id="/attrId::urlPath" attribute_uilabel="Ariba Buying Realm ID" param_key="Ariba Buying Realm ID"/></param_references></parameters>
